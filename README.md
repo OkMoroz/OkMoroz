@@ -1,35 +1,48 @@
-# Hello! 👋
-<img src="https://camo.githubusercontent.com/6725971b2a60027d24b1998befbe8193480013621e614903b31e3c3c7e272ff3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d344e796b58785545304841634b37554a362f67697068792e676966" width="10%" height="10%">
+# Hello! <img src="https://camo.githubusercontent.com/6725971b2a60027d24b1998befbe8193480013621e614903b31e3c3c7e272ff3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d344e796b58785545304841634b37554a362f67697068792e676966" width="5%" height="5%">
 
-My name is Oksana, and I am a Junior Front-End Developer with a strong passion for programming. I am currently working on advancing my career in this field.
+My name is Oksana.
 
-## Education
+I am a Junior Front-End Developer with a strong passion for programming.
 
-- **[Hillel IT School](https://certificate.ithillel.ua/view/74052002)** - Front-end Basic and Front-end Pro (React)
-  - Completed in September 2023
+I am currently working on advancing my career in this field.
 
-## Projects
+## 🏆 Education
 
-- [MOXA](https://okmoroz.github.io/Moxa/)
-- [Guitars](https://okmoroz.github.io/Guitar/)
-- [Skinn](https://okmoroz.github.io/Skinn/)
-- [Diploma project (Basic) (Live Demo)](https://okmoroz.github.io/HLegal/)
-- [Diploma project (PRO)  (GitHub Repository)](https://github.com/OkMoroz/graduate-work-js-moroz)
+- Front-end Basic  - сertificate **[Hillel IT School](https://certificate.ithillel.ua/view/74052002)** 
+- Front-end Pro (React)
 
-## Skills
+сompleted in September 2023
 
-- JavaScript
-- React
-- HTML/CSS/SASS
-- Mobile-first/Desktop-first
-- GitHub
-- jQuery
-- Bootstrap
-- Material UI
-- Jira
+## 📚 Projects
 
-## 📖 Always open to learning and collaboration.
+- [Portfolio](https://okmoroz.github.io/portfolio/)
+- [Diploma project (Basic)](https://okmoroz.github.io/HLegal/)
+- [Diploma project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
 
-## 📫 If you want to get in touch with me, please write on Telegram - [@https://t.me/Moroz_Ksenia](https://t.me/Moroz_Ksenia)
+## 💻 Skills
 
+![JavaScript](https://img.shields.io/badge/JavaScript-%231E4B6E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-%231E4B6E?style=for-the-badge&logo=React&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%231E4B6E?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231E4B6E?style=for-the-badge&logo=CSS&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-%231E4B6E?style=for-the-badge&logo=SASS&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-%231E4B6E?style=for-the-badge&logo=GIT&logoColor=white)
 
+![GitHub](https://img.shields.io/badge/GitHub-%231E4B6E?style=for-the-badge&logo=GitHub&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%231E4B6E?style=for-the-badge&logo=jQuery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%231E4B6E?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-%231E4B6E?style=for-the-badge&logo=Material-UI&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%231E4B6E?style=for-the-badge&logo=Jira&logoColor=white)
+
+## 💡 Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%231E4B6E?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%231E4B6E?style=for-the-badge&logo=Next.js&logoColor=white)
+
+## 📝 Always open to learning and collaboration.
+
+![Telegram](https://img.shields.io/badge/Telegram-%2300bfff?style=for-the-badge&logo=Telegram&logoColor=white) - [Oksana Moroz](https://t.me/Moroz_Ksenia) - If you want to get in touch with me, please write
+
+![MyFunction()](https://img.shields.io/badge/MyFunction-%23da70d6?style=for-the-badge&logo=MyFunction&logoColor=white) - [MyFunction()](https://t.me/OM_myFunction) - blog about my path in IT
+
+![Oksana Moroz](https://img.shields.io/badge/LinkedIn-%230064ff?style=for-the-badge&logo=LinkedIn&logoColor=white)  - [Oksana Moroz](https://www.linkedin.com/in/oksana-moroz/) - welcome to my profile
