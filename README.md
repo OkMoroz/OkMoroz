@@ -6,19 +6,6 @@ I am a Junior Front-End Developer with a strong passion for programming.
 
 I am currently working on advancing my career in this field.
 
-## 🏆 Education
-
-- Front-end Basic  - сertificate **[Hillel IT School](https://certificate.ithillel.ua/view/74052002)** 
-- Front-end Pro (React)
-
-сompleted in September 2023
-
-## 📚 Projects
-
-- [Portfolio](https://okmoroz.github.io/portfolio/)
-- [Diploma project (Basic)](https://okmoroz.github.io/HLegal/)
-- [Diploma project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
-
 ## 💻 Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%231E4B6E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -38,6 +25,19 @@ I am currently working on advancing my career in this field.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231E4B6E?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%231E4B6E?style=for-the-badge&logo=Next.js&logoColor=white)
+
+## 🏆 Education
+
+- Front-end Basic  - сertificate **[Hillel IT School](https://certificate.ithillel.ua/view/74052002)** 
+- Front-end Pro (React)
+
+сompleted in September 2023
+
+## 📚 Projects
+
+- [Portfolio](https://okmoroz.github.io/portfolio/)
+- [Diploma project (Basic)](https://okmoroz.github.io/HLegal/)
+- [Diploma project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
 
 ## 📝 Always open to learning and collaboration.
 
