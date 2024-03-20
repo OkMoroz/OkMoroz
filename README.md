@@ -29,9 +29,9 @@ I am currently working on advancing my career in this field.
 ## 🏆 Education
 
 - Front-end Basic  - сertificate **[Hillel IT School](https://certificate.ithillel.ua/view/74052002)** 
-- Front-end Pro (React)
+- Front-end Pro (React) **[Hillel IT School](https://certificate.ithillel.ua/view/60575865)**
+- Typecript **[Hillel IT School](https://certificate.ithillel.ua/view/25307307)** 
 
-сompleted in September 2023
 
 ## 📚 Projects
 
