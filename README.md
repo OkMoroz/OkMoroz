@@ -1,45 +1,39 @@
 # Hello! 
 
-My name is Oksana.
+My name is Oksana, and I am a Front-End Developer with a strong passion for coding and continuous learning. Currently, I am focused on growing my skills and contributing to impactful projects in the tech world.
 
-I am a Junior Front-End Developer with a strong passion for programming.
-
-I am currently working on advancing my career in this field.
-
-## 💻 Skills
+## 💻 My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%231E4B6E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%231E4B6E?style=for-the-badge&logo=React&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Persist](https://img.shields.io/badge/Redux%20Persist-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%231E4B6E?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%231E4B6E?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231E4B6E?style=for-the-badge&logo=CSS&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%231E4B6E?style=for-the-badge&logo=SASS&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-%231E4B6E?style=for-the-badge&logo=GIT&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-%231E4B6E?style=for-the-badge&logo=GitHub&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%231E4B6E?style=for-the-badge&logo=jQuery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%231E4B6E?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%231E4B6E?style=for-the-badge&logo=Material-UI&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-%231E4B6E?style=for-the-badge&logo=GIT&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%231E4B6E?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%231E4B6E?style=for-the-badge&logo=Jira&logoColor=white)
 
-## 💡 Currently Learning
+## 💡 What I'm Learning
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%231E4B6E?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%231E4B6E?style=for-the-badge&logo=Next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 
-## 🏆 Education
+## 🏆 My Pet Project 
 
-- Front-end Basic  - сertificate **[Hillel IT School](https://certificate.ithillel.ua/view/74052002)** 
-- Front-end Pro (React) **[Hillel IT School](https://certificate.ithillel.ua/view/60575865)**
-- Typecript **[Hillel IT School](https://certificate.ithillel.ua/view/25307307)** 
-
+- Game - **[Snake Game](my-pet-snake-game.netlify.app)** – a fun and interactive implementation of the classic snake game.
 
 ## 📚 Projects
 
 - [Portfolio](https://okmoroz.github.io/portfolio/)
-- [Diploma project (Basic)](https://okmoroz.github.io/HLegal/)
-- [Diploma project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
+- [Project ](https://okmoroz.github.io/HLegal/)
+- [Project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
+- [Group project](https://fs-oct24-debug-deliver.netlify.app/) - A collaborative project where I acted as a Team Lead, coordinating tasks and managing the development process.
 
-## 📝 Always open to learning and collaboration.
+## 📝  Let's Connect!
 
 ![Telegram](https://img.shields.io/badge/Telegram-%2300bfff?style=for-the-badge&logo=Telegram&logoColor=white) - [Oksana Moroz](https://t.me/Moroz_Ksenia) - If you want to get in touch with me, please write
 
