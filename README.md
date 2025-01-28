@@ -24,7 +24,7 @@ My name is Oksana, and I am a Front-End Developer with a strong passion for codi
 
 ## 🏆 My Pet Project 
 
-- Game - **[Snake Game](my-pet-snake-game.netlify.app)** – a fun and interactive implementation of the classic snake game.
+- Game - **[Snake Game](https://my-pet-snake-game.netlify.app/)** – a fun and interactive implementation of the classic snake game.
 
 ## 📚 Projects
 
