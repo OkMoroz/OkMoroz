@@ -6,8 +6,8 @@ My name is Oksana, and I am a Front-End Developer with a strong passion for codi
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%231E4B6E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%231E4B6E?style=for-the-badge&logo=React&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Persist](https://img.shields.io/badge/Redux%20Persist-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%231E4B6E?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Persist](https://img.shields.io/badge/Redux%20Persist-%231E4B6E?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%231E4B6E?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%231E4B6E?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231E4B6E?style=for-the-badge&logo=CSS&logoColor=white)
@@ -19,8 +19,8 @@ My name is Oksana, and I am a Front-End Developer with a strong passion for codi
 
 ## 💡 What I'm Learning
 
-![Next.js](https://img.shields.io/badge/Next.js-%231E4B6E?style=for-the-badge&logo=Next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23764ABC?style=for-the-badge&logo=Next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23764ABC?style=for-the-badge&logo=Vite&logoColor=white)
 
 ## 🏆 My Pet Project 
 
@@ -29,8 +29,8 @@ My name is Oksana, and I am a Front-End Developer with a strong passion for codi
 ## 📚 Projects
 
 - [Portfolio](https://okmoroz.github.io/portfolio/)
-- [Project ](https://okmoroz.github.io/HLegal/)
-- [Project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
+- [HLegal](https://okmoroz.github.io/HLegal/)
+- [Diploma Project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
 - [Group project](https://fs-oct24-debug-deliver.netlify.app/) - A collaborative project where I acted as a Team Lead, coordinating tasks and managing the development process.
 
 ## 📝  Let's Connect!
