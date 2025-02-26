@@ -12,15 +12,17 @@ My name is Oksana, and I am a Front-End Developer with a strong passion for codi
 ![HTML](https://img.shields.io/badge/HTML5-%231E4B6E?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231E4B6E?style=for-the-badge&logo=CSS&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%231E4B6E?style=for-the-badge&logo=SASS&logoColor=white)
+![CSS modules](https://img.shields.io/badge/CSS_moodules-%231E4B6E?style=for-the-badge&logo=CSS_moodules&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%231E4B6E?style=for-the-badge&logo=Material-UI&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-%231E4B6E?style=for-the-badge&logo=GIT&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%231E4B6E?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%231E4B6E?style=for-the-badge&logo=Jira&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%231E4B6E?style=for-the-badge&logo=Vite&logoColor=white)
+
 
 ## 💡 What I'm Learning
 
 ![Next.js](https://img.shields.io/badge/Next.js-%23764ABC?style=for-the-badge&logo=Next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23764ABC?style=for-the-badge&logo=Vite&logoColor=white)
 
 ## 🏆 My Pet Project 
 
@@ -28,6 +30,7 @@ My name is Oksana, and I am a Front-End Developer with a strong passion for codi
 
 ## 📚 Projects
 
+- [CV]([https://okmoroz.github.io/portfolio/](https://github.com/OkMoroz/CV-Oksana-Moroz/blob/main/Frontend%20Developer.%20Oksana%20Moroz%20CV.pdf))
 - [Portfolio](https://okmoroz.github.io/portfolio/)
 - [HLegal](https://okmoroz.github.io/HLegal/)
 - [Diploma Project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
