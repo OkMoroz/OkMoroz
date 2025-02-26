@@ -33,7 +33,7 @@ My name is Oksana, and I am a Front-End Developer with a strong passion for codi
 - [CV](https://github.com/OkMoroz/CV-Oksana-Moroz/blob/main/Frontend%20Developer.%20Oksana%20Moroz%20CV.pdf)
 - [Portfolio](https://okmoroz.github.io/portfolio/)
 - [HLegal](https://okmoroz.github.io/HLegal/)
-- [Diploma Project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
+- [Diploma Project (PRO)]([graduate-work-moroz](https://graduate-work-moroz.netlify.app/))
 - [Group project](https://fs-oct24-debug-deliver.netlify.app/) - A collaborative project where I acted as a Team Lead, coordinating tasks and managing the development process.
 
 ## 📝  Let's Connect!
