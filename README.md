@@ -30,7 +30,7 @@ My name is Oksana, and I am a Front-End Developer with a strong passion for codi
 
 ## 📚 Projects
 
-- [CV]([https://okmoroz.github.io/portfolio/](https://github.com/OkMoroz/CV-Oksana-Moroz/blob/main/Frontend%20Developer.%20Oksana%20Moroz%20CV.pdf))
+- [CV](https://okmoroz.github.io/portfolio/](https://github.com/OkMoroz/CV-Oksana-Moroz/blob/main/Frontend%20Developer.%20Oksana%20Moroz%20CV.pdf))
 - [Portfolio](https://okmoroz.github.io/portfolio/)
 - [HLegal](https://okmoroz.github.io/HLegal/)
 - [Diploma Project (PRO)](https://github.com/OkMoroz/graduate-work-js-moroz)
